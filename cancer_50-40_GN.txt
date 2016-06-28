@@ -1,0 +1,11 @@
+method : normal
+opt_method : greedy
+option_list :
+alpha : 0.005
+epoch_limit : 20
+Geometry : 50,40
+FT: Y
+AF: 0.9
+alpha_ft:0.001
+epoch_limit_ft : 50
+batch_size: 2 
